@@ -26,6 +26,21 @@
 |20|[Type of Triangle](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/type-of-triangle/what-type-of-triangle-English.pdf)|[Solution](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/type-of-triangle/sol1.sql) |Easy|
 |21|[Top Earners](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/type-of-triangle/what-type-of-triangle-English.pdf)|[Solution](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/top-earners/sol1.sql) |Easy|
 |22|[The PADS](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/the-pads/the-pads-English.pdf)|[Solution](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/the-pads/sol1.sql) |Easy|
+|23|[The Blunder](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/the-blunder/the-blunder-English.pdf)|[Solution](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/the-blunder/sol1.sql) |Easy|
+|24|[Select By ID](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/select-by-id/select-by-id-English.pdf)|[Solution](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/select-by-id/sol1.sql) |Easy|
+|25|[Select All](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/select-all/select-all-sql-English.pdf)|[Solution](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/select-all/sol1.sql) |Easy|
+|26|[Revising the Select Query 1](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/revising-the-select-query-1/revising-the-select-query-English.pdf)|[Solution](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/revising-the-select-query-1/sol1.sql) |Easy|
+|27|[Revising the Select Query 2](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/revising-the-select-query-2/revising-the-select-query-2-English.pdf)|[Solution](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/revising-the-select-query-2/sol1.sql) |Easy|
+|28|[Revising Aggregations SUM](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/revising-aggregations-sum/revising-aggregations-sum-English.pdf)|[Solution](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/revising-aggregations-sum/sol1.sql) |Easy|
+|29|[Revising Aggregateions COUNT](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/revising-aggregations-count/revising-aggregations-the-count-function-English.pdf)|[Solution](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/revising-aggregations-count/sol1.sql) |Easy|
+|30|[Revising Aggregateions AVERAGE](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/revising-aggregations-average/revising-aggregations-the-average-function-English.pdf)|[Solution](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/revising-aggregations-average/sol1.sql) |Easy|
+|31|[Population Density Difference](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/population-density-difference/population-density-difference-English.pdf)|[Solution](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/population-density-difference/sol1.sql) |Easy|
+|32|[Japanese Cities' Names](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/japanese-cities-names/japanese-cities-name-English.pdf)|[Solution](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/japanese-cities-names/sol1.sql) |Easy|
+
+
+
+
+|25|[]()|[Solution]() |Easy|
 
 
 
