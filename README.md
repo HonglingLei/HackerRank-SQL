@@ -24,4 +24,4 @@
 |18|[Weather Observation Station 18](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/weather-observation-station-18/weather-observation-station-18-English.pdf)|[Solution](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/weather-observation-station-18/sol1.sql) |Easy|
 |19|[Weather Observation Station 19](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/weather-observation-station-19/weather-observation-station-19-English.pdf)|[Solution](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/weather-observation-station-19/sol1.sql) |Easy|
 |20|[Type of Triangle](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/type-of-triangle/what-type-of-triangle-English.pdf)|[Solution](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/type-of-triangle/sol1.sql) |Easy|
-
+|21|[Top Earners](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/type-of-triangle/what-type-of-triangle-English.pdf)|[Solution](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/top-earners/sol1.sql) |Easy|
