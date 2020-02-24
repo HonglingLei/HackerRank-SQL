@@ -36,11 +36,13 @@
 |30|[Revising Aggregateions AVERAGE](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/revising-aggregations-average/revising-aggregations-the-average-function-English.pdf)|[Solution](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/revising-aggregations-average/sol1.sql) |Easy|
 |31|[Population Density Difference](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/population-density-difference/population-density-difference-English.pdf)|[Solution](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/population-density-difference/sol1.sql) |Easy|
 |32|[Japanese Cities' Names](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/japanese-cities-names/japanese-cities-name-English.pdf)|[Solution](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/japanese-cities-names/sol1.sql) |Easy|
+|33|[Japanese Cities' Attributes](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/japanese-cities-attributes/japanese-cities-attributes-English.pdf)|[Solution](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/japanese-cities-attributes/sol1.sql) |Easy|
+|34|[Japanese Population](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/japan-population/japan-population-English.pdf)|[Solution](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/japan-population/sol1.sql) |Easy|
+|35|[Higher Than 75 Marks](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/higher-than-75-marks/more-than-75-marks-English.pdf)|[Solution](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/higher-than-75-marks/sol1.sql) |Easy|
+|36|[Employee Salaries](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/employee-salaries/salary-of-employees-English.pdf)|[Solution](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/employee-salaries/sol1.sql) |Easy|
+|37|[Employee Names](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/employee-names/name-of-employees-English.pdf)|[Solution](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/employee-names/sol1.sql) |Easy|
+|38|[Draw the Triangle](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/draw-the-triangle-1/draw-the-triangle-1-English.pdf)|[Solution](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/draw-the-triangle-1/sol1.sql) |Easy|
 
-
-
-
-|25|[]()|[Solution]() |Easy|
 
 
 
