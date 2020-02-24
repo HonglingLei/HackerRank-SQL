@@ -1,8 +1,9 @@
 # HackerRank-SQL
+HackerRank is a platform where users can practice coding skills. I finished the following problems in its [SQL section](https://www.hackerrank.com/domains/sql). For some problems, I provided more than one solution.
 
 ## Table of Content
 
-|  #  |      Title     |   Solutions   |  Difficulty  | Tag                   
+|  #  |    Problems    |   Solutions   |  Difficulty  | Tag                   
 |-----|----------------|---------------|--------------|-------------
 |1|[Weather Observation Station 1](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/weather-observation-station-1/weather-observation-station-1-English.pdf)|[Solution](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/weather-observation-station-1/sol1.sql) |Easy|
 |2|[Weather Observation Station 2](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/weather-observation-station-2/weather-observation-station-2-English.pdf)|[Solution](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/weather-observation-station-2/sol1.sql) |Easy|
