@@ -45,7 +45,7 @@
 |39|[Draw the Triangle 2](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/draw-the-triangle-2/draw-the-triangle-2-English.pdf)|[Solution](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/draw-the-triangle-2/sol1.sql) |Easy|
 |40|[Average Population of Each Continent](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/average-population-of-each-continent/average-population-of-each-continent-English.pdf)|[Solution](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/average-population-of-each-continent/sol1.sql) |Easy|
 |41|[African Cities](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/african-cities/african-cities-English.pdf)|[Solution](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/african-cities/sol1.sql) |Easy|
-
+|42|[Asian Population](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/asian-population/asian-population-English.pdf)|[Solution](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/asian-population/sol1.sql) |Easy|
 
 
 
