@@ -41,8 +41,10 @@
 |35|[Higher Than 75 Marks](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/higher-than-75-marks/more-than-75-marks-English.pdf)|[Solution](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/higher-than-75-marks/sol1.sql) |Easy|
 |36|[Employee Salaries](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/employee-salaries/salary-of-employees-English.pdf)|[Solution](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/employee-salaries/sol1.sql) |Easy|
 |37|[Employee Names](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/employee-names/name-of-employees-English.pdf)|[Solution](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/employee-names/sol1.sql) |Easy|
-|38|[Draw the Triangle](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/draw-the-triangle-1/draw-the-triangle-1-English.pdf)|[Solution](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/draw-the-triangle-1/sol1.sql) |Easy|
-
+|38|[Draw the Triangle 1](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/draw-the-triangle-1/draw-the-triangle-1-English.pdf)|[Solution](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/draw-the-triangle-1/sol1.sql) |Easy|
+|39|[Draw the Triangle 2](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/draw-the-triangle-2/draw-the-triangle-2-English.pdf)|[Solution](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/draw-the-triangle-2/sol1.sql) |Easy|
+|40|[Average Population of Each Continent](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/average-population-of-each-continent/average-population-of-each-continent-English.pdf)|[Solution](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/average-population-of-each-continent/sol1.sql) |Easy|
+|41|[African Cities](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/african-cities/african-cities-English.pdf)|[Solution](https://github.com/HonglingLei/HackerRank-SQL/blob/master/hackerrank%20sql/african-cities/sol1.sql) |Easy|
 
 
 
